@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        Assignment 2 V5
-# Purpose:     Runs the analysis for assignment 2
+# Purpose:     Runs the analysis for assignment 2. A script for converting GPS location, NTS base data, and ATS polygons to geodatabase feature classes. This allows geographic data to be used in the ESRI environemnt. 
 #
 # Author:      845942, Justin Pan
 #
