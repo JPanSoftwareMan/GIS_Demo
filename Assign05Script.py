@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        Custom Script Tool Basic Demo
+# Purpose:     A script made for tutorials showing users how to create a custom script tool with arcpy. 
+#
+# Author:      845942, Justin Pan
+#
+# Created:     03/21/2023
+# Copyright:   (c) SAIT Bachelor of Geographic Information Systems Program
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 import arcpy
 
 def ScriptTool(roadFeature, outputFC,bufferDist,featurestoIntersect):
