@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        Cypress Hlls Provincial Park Pipeline Construction
+# Purpose:     A script for finding the best route for the construction of a hypothetical pipeline through Cypress Hills Provincial Park.
+#
+# Author:      845942, Justin Pan
+#
+# Created:     03/21/2023
+# Copyright:   (c) SAIT Bachelor of Geographic Information Systems Program
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 import arcpy
 import os
 import time
