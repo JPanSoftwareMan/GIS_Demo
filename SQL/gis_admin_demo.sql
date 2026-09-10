@@ -1,5 +1,4 @@
---a demo of the roles and permissions assignment for a GIS db done in my past experiences. 
-
+--a demo of the type of the database admin work I have done in the past for postgresql
 
 CREATE SCHEMA gis_raw; 
 CREATE SCHEMA gis_core;
